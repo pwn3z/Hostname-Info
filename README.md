@@ -10,8 +10,8 @@ Wordlist with hosts/ips:
 
 two.txt
 
-www.facebook.com - Provider: Facebook, Inc. | Country: France | State: Île-de-France | DNS: edge-star-mini-shv-01-cdt1.facebook.com
+www.facebook.com - Provider: Facebook, Inc. | Country: France | DNS: edge-star-mini-shv-01-cdt1.facebook.com
 
-www.youtube.com - Provider: Google LLC | Country: France | State: Île-de-France | DNS: par10s27-in-f206.1e100.net
+www.youtube.com - Provider: Google LLC | Country: France | DNS: par10s27-in-f206.1e100.net
 
 the data will be saved in - isp.txt
